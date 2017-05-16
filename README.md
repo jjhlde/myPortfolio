@@ -1,3 +1,8 @@
-# myPortfolio
+# jungho Jang Portfolio
 
-Portfolio
+* Android
+
+* JAVA
+
+* JSP
+
