@@ -2,7 +2,7 @@
 > 개인포트폴리오
 
 ###### Android
-* Remembook[https://github.com/jjhlde/Remembook]
+* [Remembook](https://github.com/jjhlde/Remembook)
 
 ###### JAVA
 * Purchase/Sale Program
