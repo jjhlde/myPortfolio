@@ -1,7 +1,7 @@
 # Jungho Jang Portfolio
 > 개인포트폴리오
 
-###### Android
+###### *Android
 * [Remembook](https://github.com/jjhlde/Remembook)
 
 ###### JAVA
